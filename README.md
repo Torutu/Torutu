@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on cpp projects<br>👯 I’m looking to collaborate on IRC<br>🤝 I’m looking for help with modding total war warhammer III<br>🌱 I’m currently learning c++<br>💬
+🔭 I’m currently working on cpp projects<br>👯 I’m looking to collaborate on IRC<br>🤝 I’m looking for help with modding total war warhammer III<br>🌱 I’m currently learning c++<br>
 
 
 # 💻 Tech Stack:
