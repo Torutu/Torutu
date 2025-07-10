@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on cpp projects<br>👯 I’m looking to collaborate on IRC<br>🤝 I’m looking for help with modding Minecraft and other games<br>🌱 I’m currently learning c++<br>
+Hey! I'm a student at 42, where I get to break and rebuild things in C/C++.  
+Outside school, I like exploring:
+
+- 🧠 **C++** — even more C++ for when I want more control and test graphical projects
+- 🎮 **Godot** — for fun 2D/3D game experiments
+- ⚙️ **Go** — for writing small, clean tools and backends
+
+I'm always open to learning something new.
+Most of my projects start as an experiment and a challenge or just me trying to figure things out.
+I learn best by doing and breaking things along the way!
 
 ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=plastic)  
 **Torutu**
