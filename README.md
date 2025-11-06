@@ -2,9 +2,9 @@
 Hi, I’m Waleed! Software engineer and lifelong tinkerer.
 I like building things that make workflows smoother or just spark curiosity.
 
-⚙️ Go for fast, simple tools
-🧩 TypeScript for interactive apps and plugins
-🎮 Godot Engine for creative and gaming experiments
+- ⚙️ Go for fast, simple tools
+- 🧩 TypeScript for interactive apps and plugins
+- 🎮 Godot Engine for creative and gaming experiments
 
 Graduate of 42 Helsinki, I learn by breaking, fixing, and improving until it works beautifully.
 
