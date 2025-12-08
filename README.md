@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello! I'm Waleed, a passionate software developer.
 I enjoy working across the full stack. I love building clean, interactive user interfaces and creating practical, reliable software that feels good to use.
 
 Graduate of 42 Helsinki, I learn by breaking, fixing, and improving until it works beautifully.
