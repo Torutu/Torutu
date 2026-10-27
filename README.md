@@ -54,35 +54,6 @@ I learn by breaking, fixing, and improving until it works beautifully.
 
 <br/>
 
-## What I've learned
-
-```mermaid
-mindmap
-  root((Waleed))
-    Systems
-      C
-      C++
-      Memory management
-      Algorithms
-    Web
-      React
-      TypeScript
-      JavaScript
-      Interactive UI
-    Backend
-      Go
-      Python
-      APIs
-    Cloud
-      Docker
-      Azure
-    Creative
-      Godot
-      Blender
-```
-
-<br/>
-
 ## GitHub stats
 
 <div align="center">
